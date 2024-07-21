@@ -1,0 +1,14 @@
+{
+  "name": "world-clock",
+  "version": "1.0.0",
+  "description": "plans",
+  "main": "sever.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "ayush singh",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
